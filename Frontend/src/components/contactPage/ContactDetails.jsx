@@ -8,13 +8,13 @@ const contactDetails = [
     icon: "HiChatBubbleLeftRight",
     heading: "Chat on us",
     description: "Our friendly team is here to help.",
-    details: "amansharma40732@gmail.com",
+    details: "tarunydv583@gmail.com",
   },
   {
     icon: "BiWorld",
     heading: "Visit us",
     description: "Come and say hello at our office HQ.",
-    details: "Room number 2011,(B) Ramanujan boys Hostel IET DAVV",
+    details: "Room no. 305, ECO BOYS RESIDENCY, Nanak Nagar, Indore, 452001",
   },
   {
     icon: "IoCall",
